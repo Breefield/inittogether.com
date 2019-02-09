@@ -98,7 +98,11 @@ textarea {
    ========================================================================== */
 
 
-
+h1, h2, h3 {
+    font-family: source-sans-pro, sans-serif;
+    font-style: normal;
+    font-weight: 200;
+}
 
 
 
