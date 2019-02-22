@@ -166,6 +166,17 @@ h1, h2, h3 {
     padding-right: 5px;
 }
 
+.mc-field-group input[type=text] {
+    border: 1px solid #DDD;
+    padding: 5px;
+    border-radius: 2px
+}
+
+#mc_embed_signup div.mce_inline_error {
+  background: none;
+  color: #DDD;
+}
+
 .indicates-required {
     font-style: italic;
     color: #666;
